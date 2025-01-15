@@ -9,6 +9,7 @@
   "scleraColor"    : [ 255, 0, 0 ],
   "backColor"      : [ 255, 0, 0 ],
   "irisTexture"    : "doom-spiral/spiral.bmp",
+  "irisSpin"       : 50,
   // The doom-red and doom-spiral eyelid bitmaps don't fully close.
   "upperEyelid"    : "doom-spiral/upper.bmp",
   "lowerEyelid"    : "doom-spiral/lower.bmp",
